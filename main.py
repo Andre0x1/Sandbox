@@ -5,6 +5,7 @@ import time
 url = 'https://api.stackexchange.com/2.3/questions'
 
 params = {
+    'key' :'LvNpGbm8Cag)*kR76U5Bzw((',
     'page': 1,
     'pagesize': 100,
     'order': 'desc',
@@ -16,7 +17,7 @@ def get_stackData():
     questions = []
     i=0
     
-    for page in range(1, 101):
+    for page in range(1, 1001):
         retry = True
         while retry: 
             params['page'] = page
@@ -25,12 +26,13 @@ def get_stackData():
                 retry = False
                 questions += response.json()['items']
                 i+= 1
-                print(i,"% das perguntas obtidas")
+                if(i%1000== 0):
+                    print(i/1000,"% das perguntas obtidas")
             else:
-                print("Timeout 30 segs")
-                time.sleep(1)
+                print("Timeout 10 min")
+                time.sleep(360)
        
-    filename = "questions.json"
+    filename = "100K_questions.json"
     with open(filename, "w") as f:
         json.dump(questions, f, indent=4)
 
