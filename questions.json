@@ -1,0 +1,2658 @@
+[
+    {
+        "tags": [
+            "ios",
+            "swift",
+            "promisekit"
+        ],
+        "owner": {
+            "account_id": 988083,
+            "reputation": 6183,
+            "user_id": 1006113,
+            "user_type": "registered",
+            "accept_rate": 56,
+            "profile_image": "https://www.gravatar.com/avatar/a6a2da25ed21ba95c2cc00d165e58a21?s=256&d=identicon&r=PG",
+            "display_name": "Fry",
+            "link": "https://stackoverflow.com/users/1006113/fry"
+        },
+        "is_answered": false,
+        "view_count": 1,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529916,
+        "creation_date": 1680529916,
+        "question_id": 75920228,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920228/pass-value-over-promise-in-swift",
+        "title": "Pass value over Promise in Swift"
+    },
+    {
+        "tags": [
+            "python",
+            "flask"
+        ],
+        "owner": {
+            "account_id": 23931742,
+            "reputation": 73,
+            "user_id": 19420551,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/6efd2f8151315c5edb189147b7761cab?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Bamagujen_Bahaushe.",
+            "link": "https://stackoverflow.com/users/19420551/bamagujen-bahaushe"
+        },
+        "is_answered": false,
+        "view_count": 1,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529916,
+        "creation_date": 1680529916,
+        "question_id": 75920227,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920227/how-to-use-choice-filed-in-flask",
+        "title": "How to use choice filed in flask"
+    },
+    {
+        "tags": [
+            "postgresql",
+            "ubuntu-22.04"
+        ],
+        "owner": {
+            "account_id": 8372134,
+            "reputation": 959,
+            "user_id": 6286900,
+            "user_type": "registered",
+            "accept_rate": 50,
+            "profile_image": "https://i.stack.imgur.com/20NnH.jpg?s=256&g=1",
+            "display_name": "Salvatore D&#39;angelo",
+            "link": "https://stackoverflow.com/users/6286900/salvatore-dangelo"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529904,
+        "creation_date": 1680529904,
+        "question_id": 75920224,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920224/gmterror-could-not-open-shared-memory-segment-postgresql-2073350750-no-such",
+        "title": "GMTERROR: could not open shared memory segment &quot;/PostgreSQL.2073350750&quot;: No such file or directory"
+    },
+    {
+        "tags": [
+            "google-app-engine",
+            "nextjs-app-beta"
+        ],
+        "owner": {
+            "account_id": 27683420,
+            "reputation": 21,
+            "user_id": 21131682,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4uuKbqWtckiAQAiqt3Lx4tHMGQ5D-cl79G7dS_=k-s256",
+            "display_name": "Abdulsalam Al Mahdi",
+            "link": "https://stackoverflow.com/users/21131682/abdulsalam-al-mahdi"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529897,
+        "creation_date": 1680529897,
+        "question_id": 75920223,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920223/error-enoent-no-such-file-or-directory-mkdir-workspace-next",
+        "title": "Error: ENOENT: no such file or directory, mkdir &#39;/workspace/.next&#39;"
+    },
+    {
+        "tags": [
+            "spring-boot",
+            "micrometer",
+            "brave",
+            "micrometer-tracing"
+        ],
+        "owner": {
+            "account_id": 14450502,
+            "reputation": 77,
+            "user_id": 10438187,
+            "user_type": "registered",
+            "profile_image": "https://lh6.googleusercontent.com/-Cpc3kKCgnck/AAAAAAAAAAI/AAAAAAAAAYw/1F4fZ1Q_VjI/photo.jpg?sz=256",
+            "display_name": "Poklakni",
+            "link": "https://stackoverflow.com/users/10438187/poklakni"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529892,
+        "creation_date": 1680529892,
+        "question_id": 75920222,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920222/micrometer-tracing-brave-rest-template-web-client",
+        "title": "micrometer tracing brave + rest template / web client"
+    },
+    {
+        "tags": [
+            "asp.net-core",
+            "drop-down-menu",
+            "dropdown",
+            "html-select"
+        ],
+        "owner": {
+            "account_id": 4017776,
+            "reputation": 174,
+            "user_id": 3309231,
+            "user_type": "registered",
+            "accept_rate": 73,
+            "profile_image": "https://www.gravatar.com/avatar/b3fc3e91180f3431ec50958058deac61?s=256&d=identicon&r=PG&f=1",
+            "display_name": "user3309231",
+            "link": "https://stackoverflow.com/users/3309231/user3309231"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529886,
+        "creation_date": 1680529886,
+        "question_id": 75920221,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920221/save-dropdownlist-value-to-database",
+        "title": "Save Dropdownlist value to database"
+    },
+    {
+        "tags": [
+            "r",
+            "ggplot2",
+            "posixct"
+        ],
+        "owner": {
+            "account_id": 26992877,
+            "reputation": 1,
+            "user_id": 20555497,
+            "user_type": "registered",
+            "profile_image": "https://graph.facebook.com/2234484536712946/picture?type=large",
+            "display_name": "Alexander Hill",
+            "link": "https://stackoverflow.com/users/20555497/alexander-hill"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529838,
+        "creation_date": 1680529838,
+        "question_id": 75920215,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920215/r-time-trans-works-with-objects-of-class-posixct-only-yet-my-date-is-in-said-fo",
+        "title": "R time_trans works with objects of class POSIXct only, yet my date is in said format"
+    },
+    {
+        "tags": [
+            "reactjs",
+            "monorepo",
+            "nrwl-nx",
+            "nrwl"
+        ],
+        "owner": {
+            "account_id": 24193665,
+            "reputation": 172,
+            "user_id": 18152552,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/5a7ee3c1d853a76925df094686fb1fe6?s=256&d=identicon&r=PG",
+            "display_name": "niltonxp",
+            "link": "https://stackoverflow.com/users/18152552/niltonxp"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529805,
+        "creation_date": 1680529805,
+        "question_id": 75920211,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920211/referenceerror-jest-is-not-defined-when-trying-to-run-tests-inside-a-lib-in-a-n",
+        "title": "ReferenceError: jest is not defined when trying to run tests inside a lib in a nx monorepo"
+    },
+    {
+        "tags": [
+            "javascript",
+            "html",
+            "jquery",
+            "reactjs"
+        ],
+        "owner": {
+            "account_id": 26028220,
+            "reputation": 11,
+            "user_id": 19734842,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/00c19727e5aecb5bc5f588e044817ec5?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Priya Kittur",
+            "link": "https://stackoverflow.com/users/19734842/priya-kittur"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529798,
+        "creation_date": 1680529798,
+        "question_id": 75920210,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920210/html-hyperlink-not-working-when-exported-to-excel-using-export2excel",
+        "title": "HTML hyperlink not working when exported to excel using export2excel"
+    },
+    {
+        "tags": [
+            "javascript",
+            "html"
+        ],
+        "owner": {
+            "account_id": 28203481,
+            "reputation": 1,
+            "user_id": 21556932,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/b8e9b667e6821ba43358f65a30f84b07?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "M4R14N4",
+            "link": "https://stackoverflow.com/users/21556932/m4r14n4"
+        },
+        "is_answered": false,
+        "view_count": 11,
+        "answer_count": 0,
+        "score": -2,
+        "last_activity_date": 1680529777,
+        "creation_date": 1680529777,
+        "question_id": 75920206,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920206/javascript-html5",
+        "title": "Javascript + Html5"
+    },
+    {
+        "tags": [
+            "ethereum",
+            "metamask"
+        ],
+        "owner": {
+            "account_id": 17878854,
+            "reputation": 1,
+            "user_id": 12988180,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/069effaa1ceff986e59e18aca3c9047e?s=256&d=identicon&r=PG&f=1",
+            "display_name": "ekiriche",
+            "link": "https://stackoverflow.com/users/12988180/ekiriche"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529772,
+        "creation_date": 1680529772,
+        "question_id": 75920204,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920204/window-ethereum-is-a-proxy-object-without-providermap-property",
+        "title": "window.ethereum is a Proxy object without &quot;providerMap&quot; property"
+    },
+    {
+        "tags": [
+            "reactjs",
+            "visual-studio-code",
+            "localhost",
+            "vite"
+        ],
+        "owner": {
+            "account_id": 27619920,
+            "reputation": 33,
+            "user_id": 21081211,
+            "user_type": "registered",
+            "profile_image": "https://i.stack.imgur.com/Z2yyE.jpg?s=256&g=1",
+            "display_name": "alex the listener",
+            "link": "https://stackoverflow.com/users/21081211/alex-the-listener"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529768,
+        "creation_date": 1680529768,
+        "question_id": 75920203,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920203/opening-vite-project-in-vscode-crashes-localhost-5173",
+        "title": "opening Vite Project in VSCode crashes localhost/5173"
+    },
+    {
+        "tags": [
+            "docker",
+            "docker-daemon"
+        ],
+        "owner": {
+            "account_id": 4621840,
+            "reputation": 1944,
+            "user_id": 8118350,
+            "user_type": "registered",
+            "accept_rate": 79,
+            "profile_image": "https://i.stack.imgur.com/iZCsU.jpg?s=256&g=1",
+            "display_name": "pirmax",
+            "link": "https://stackoverflow.com/users/8118350/pirmax"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529747,
+        "creation_date": 1680529747,
+        "question_id": 75920200,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920200/configure-remote-access-for-docker-daemon-with-token-authentication",
+        "title": "Configure remote access for Docker daemon with token authentication"
+    },
+    {
+        "tags": [
+            "jinja2",
+            "apache-superset"
+        ],
+        "owner": {
+            "account_id": 28203415,
+            "reputation": 1,
+            "user_id": 21556876,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxaGsaSqOtckF-E7FeHze2lgqkIT9mdTPrTazf4c=k-s256",
+            "display_name": "Seb H",
+            "link": "https://stackoverflow.com/users/21556876/seb-h"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529745,
+        "creation_date": 1680529745,
+        "question_id": 75920199,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920199/syntax-for-sql-request-with-jinja-template",
+        "title": "syntax for sql request with jinja template"
+    },
+    {
+        "tags": [
+            "javascript",
+            "frontend"
+        ],
+        "owner": {
+            "account_id": 28203343,
+            "reputation": 1,
+            "user_id": 21556813,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxao35eOoaAMAFNFYh8UKBP6m-M7uP0_zRyzs5gp=k-s256",
+            "display_name": "Jo&#227;o Paulo Ferreira",
+            "link": "https://stackoverflow.com/users/21556813/jo%c3%a3o-paulo-ferreira"
+        },
+        "is_answered": false,
+        "view_count": 24,
+        "answer_count": 0,
+        "score": -4,
+        "last_activity_date": 1680529793,
+        "creation_date": 1680529739,
+        "last_edit_date": 1680529793,
+        "question_id": 75920198,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920198/im-new-in-programming",
+        "title": "I&#39;m new in programming"
+    },
+    {
+        "tags": [
+            "silverstripe-4"
+        ],
+        "owner": {
+            "account_id": 425123,
+            "reputation": 185,
+            "user_id": 805528,
+            "user_type": "registered",
+            "accept_rate": 64,
+            "profile_image": "https://www.gravatar.com/avatar/5aee819671230f8ecedad8b6b0062af5?s=256&d=identicon&r=PG",
+            "display_name": "user805528",
+            "link": "https://stackoverflow.com/users/805528/user805528"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529671,
+        "creation_date": 1680529671,
+        "question_id": 75920193,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920193/silverstripe-cms-setting-custom-logotype-site-name-and-logout-action-in-admin",
+        "title": "Silverstripe CMS: Setting custom logotype, site name and logout action in admin CMS"
+    },
+    {
+        "tags": [
+            "python"
+        ],
+        "owner": {
+            "account_id": 26633143,
+            "reputation": 29,
+            "user_id": 20250026,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu1gwojpHktI86Hjxd2JK0saLFnSEHfmQm_natQG=k-s256",
+            "display_name": "olli",
+            "link": "https://stackoverflow.com/users/20250026/olli"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529651,
+        "creation_date": 1680529651,
+        "question_id": 75920190,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920190/how-to-format-cells-while-writing-xlsx-from-python",
+        "title": "How to format cells while writing xlsx from python?"
+    },
+    {
+        "tags": [
+            "linux",
+            "bash",
+            "image",
+            "raspberry-pi"
+        ],
+        "owner": {
+            "account_id": 23001648,
+            "reputation": 13,
+            "user_id": 17125549,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/1eac61e2e6b303061de6a17af3ba6900?s=256&d=identicon&r=PG",
+            "display_name": "othin",
+            "link": "https://stackoverflow.com/users/17125549/othin"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529603,
+        "creation_date": 1680529603,
+        "question_id": 75920183,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920183/crontab-slideshow-daily-for-week",
+        "title": "crontab - slideshow daily for week"
+    },
+    {
+        "tags": [
+            "html",
+            "css",
+            "tailwind-css",
+            "alpine.js"
+        ],
+        "owner": {
+            "account_id": 25887426,
+            "reputation": 292,
+            "user_id": 19615291,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/764ff4928f1ff8ff8efb2ddb40d82195?s=256&d=identicon&r=PG",
+            "display_name": "Telexx",
+            "link": "https://stackoverflow.com/users/19615291/telexx"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529598,
+        "creation_date": 1680529598,
+        "question_id": 75920181,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920181/how-to-implement-selected-state-with-tailwindcss",
+        "title": "How to implement :selected state with TailwindCSS"
+    },
+    {
+        "tags": [
+            "python",
+            "jupyter-notebook",
+            "pytorch",
+            "cuda"
+        ],
+        "owner": {
+            "account_id": 13858208,
+            "reputation": 235,
+            "user_id": 12990915,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/c750e75283c34ec597ce07fb26157ceb?s=256&d=identicon&r=PG&f=1",
+            "display_name": "user572780",
+            "link": "https://stackoverflow.com/users/12990915/user572780"
+        },
+        "is_answered": false,
+        "view_count": 8,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529594,
+        "creation_date": 1680529594,
+        "question_id": 75920179,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920179/why-does-torch-cuda-is-available-return-true-in-terminal-but-false-in-jupyter",
+        "title": "Why does torch.cuda.is_available() return True in terminal but False in Jupyter notebook?"
+    },
+    {
+        "tags": [
+            "binding",
+            "styles"
+        ],
+        "owner": {
+            "account_id": 28203440,
+            "reputation": 1,
+            "user_id": 21556896,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/9d83782871805d4a8524f4301a5cdc92?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "mango",
+            "link": "https://stackoverflow.com/users/21556896/mango"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529587,
+        "creation_date": 1680529587,
+        "question_id": 75920178,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920178/style-not-working-there-no-syntax-mistake-and-no-problem-has-been-shown-but-when",
+        "title": "Style not working there no syntax mistake and no problem has been shown but when ever i am running the code its showing this error"
+    },
+    {
+        "tags": [
+            "number-formatting",
+            "regex-group",
+            "currency-formatting"
+        ],
+        "owner": {
+            "account_id": 945732,
+            "reputation": 1,
+            "user_id": 973025,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/fc27fa91bf3595d599c402d670593efd?s=256&d=identicon&r=PG",
+            "display_name": "user973025",
+            "link": "https://stackoverflow.com/users/973025/user973025"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529541,
+        "creation_date": 1680529541,
+        "question_id": 75920174,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920174/regex-to-get-a-price-ignoring-currency-and-separators",
+        "title": "Regex to get a price, ignoring currency and separators"
+    },
+    {
+        "tags": [
+            "r",
+            "ggplot2"
+        ],
+        "owner": {
+            "account_id": 20048100,
+            "reputation": 53,
+            "user_id": 14697325,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/0de81a4c1854dbc7017e4155a75a6d29?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Tenstu",
+            "link": "https://stackoverflow.com/users/14697325/tenstu"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529536,
+        "creation_date": 1680529536,
+        "question_id": 75920173,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920173/why-there-are-differences-between-the-density-column-in-faithfuld-dataset-and-ca",
+        "title": "why there are differences between the density column in faithfuld dataset and calculate density by ken2d founction in MASS"
+    },
+    {
+        "tags": [
+            "c#",
+            "unity3d"
+        ],
+        "owner": {
+            "account_id": 28203418,
+            "reputation": 1,
+            "user_id": 21556879,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZxb5sT2etqoS4E1nNXCZFAi7pL4Q_D4dXXZyoo-A=k-s256",
+            "display_name": "Not Login EGOR",
+            "link": "https://stackoverflow.com/users/21556879/not-login-egor"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529536,
+        "creation_date": 1680529536,
+        "question_id": 75920172,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920172/unity-error-commandinvokationfailure-gradle-build-failed",
+        "title": "Unity error: CommandInvokationFailure: Gradle build failed"
+    },
+    {
+        "tags": [
+            "r",
+            "ggplot2",
+            "statistics",
+            "lm",
+            "p-value"
+        ],
+        "owner": {
+            "account_id": 14027667,
+            "reputation": 127,
+            "user_id": 10132311,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/0c7f5d44d0bf4d6b25dbca603b2c6cea?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Suusie",
+            "link": "https://stackoverflow.com/users/10132311/suusie"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529534,
+        "creation_date": 1680529534,
+        "question_id": 75920171,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920171/get-p-value-label-from-lm-inside-ggplot-in-a-facet-wrap-plot",
+        "title": "Get p-value label from lm inside ggplot in a facet_wrap plot"
+    },
+    {
+        "tags": [
+            "android",
+            "flutter",
+            "google-play",
+            "google-play-integrity-api"
+        ],
+        "owner": {
+            "account_id": 27425774,
+            "reputation": 1,
+            "user_id": 20923308,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp5c3TkGIutn_K7g9DOuGZA7ovl0UZobvXGGBALR=k-s256",
+            "display_name": "Francesco Caputo",
+            "link": "https://stackoverflow.com/users/20923308/francesco-caputo"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529620,
+        "creation_date": 1680529534,
+        "last_edit_date": 1680529620,
+        "question_id": 75920170,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920170/playstore-warning-play-services-safetynet-has-reported-critical-issues-with-ver",
+        "title": "Playstore warning: play-services-safetynet has reported critical issues with version 17.0.0"
+    },
+    {
+        "tags": [
+            "c#",
+            "azure",
+            "asp.net-core",
+            "devops",
+            "azure-traffic-manager"
+        ],
+        "owner": {
+            "account_id": 17447532,
+            "reputation": 23,
+            "user_id": 12648235,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/-C45Ce3PIgPM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcOkE-g1AZQyUAap5Zz_0UFzkf1Pg/photo.jpg?sz=256",
+            "display_name": "\u041c\u0430\u043a\u0441 \u0428\u0443\u043b\u044c\u0434\u0438\u043d\u0435\u0440",
+            "link": "https://stackoverflow.com/users/12648235/%d0%9c%d0%b0%d0%ba%d1%81-%d0%a8%d1%83%d0%bb%d1%8c%d0%b4%d0%b8%d0%bd%d0%b5%d1%80"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529514,
+        "creation_date": 1680529514,
+        "question_id": 75920168,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920168/unable-to-unprotect-the-message-state-when-using-azure-traffic-manager",
+        "title": "unable to unprotect the message.state when using Azure Traffic Manager"
+    },
+    {
+        "tags": [
+            "google-cloud-platform",
+            "google-bigquery",
+            "google-cloud-logging"
+        ],
+        "owner": {
+            "account_id": 16839508,
+            "reputation": 104,
+            "user_id": 12175216,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mC3yK5iQrC9Wdyjky0-ILedU53Tun7Mjb-x6kPY=k-s256",
+            "display_name": "Roy kathurima",
+            "link": "https://stackoverflow.com/users/12175216/roy-kathurima"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529491,
+        "creation_date": 1680529491,
+        "question_id": 75920165,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920165/how-to-get-around-google-bigquery-returning-null-when-json-parsing-very-long-str",
+        "title": "How to get around Google BigQuery returning null when json-parsing very long strings?"
+    },
+    {
+        "tags": [
+            "google-assistant-sdk",
+            "google-auth-library",
+            "google-aiy"
+        ],
+        "owner": {
+            "account_id": 9318440,
+            "reputation": 25,
+            "user_id": 6917995,
+            "user_type": "registered",
+            "profile_image": "https://graph.facebook.com/10154455267477368/picture?type=large",
+            "display_name": "Rauf Aliev",
+            "link": "https://stackoverflow.com/users/6917995/rauf-aliev"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529490,
+        "creation_date": 1680529490,
+        "question_id": 75920164,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920164/compatibility-issues-with-google-aiy-voice-and-dependencies-seeking-solutions-a",
+        "title": "Compatibility Issues with Google AIY Voice and Dependencies: Seeking Solutions and Alternative Methods"
+    },
+    {
+        "tags": [
+            "exclusionpath"
+        ],
+        "owner": {
+            "account_id": 28203364,
+            "reputation": 1,
+            "user_id": 21556829,
+            "user_type": "registered",
+            "profile_image": "https://i.stack.imgur.com/jL25Z.jpg?s=256&g=1",
+            "display_name": "Raymitin",
+            "link": "https://stackoverflow.com/users/21556829/raymitin"
+        },
+        "is_answered": false,
+        "view_count": 10,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1680529657,
+        "creation_date": 1680529455,
+        "last_edit_date": 1680529657,
+        "question_id": 75920161,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920161/how-to-remark-this-folder",
+        "title": "How to remark this folder?"
+    },
+    {
+        "tags": [
+            "c#",
+            "asp.net",
+            "database",
+            "asp.net-core",
+            "mariadb"
+        ],
+        "owner": {
+            "account_id": 28202940,
+            "reputation": 1,
+            "user_id": 21556452,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxbNVIRdRFxSH4QlY58SZOVtA1KiET4xf9ZgKEot=k-s256",
+            "display_name": "A1a A",
+            "link": "https://stackoverflow.com/users/21556452/a1a-a"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529445,
+        "creation_date": 1680529445,
+        "question_id": 75920158,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920158/i-need-to-display-my-external-db-on-my-asp-net-site",
+        "title": "I need to display my external Db on my ASP.NET site"
+    },
+    {
+        "tags": [
+            "r",
+            "dplyr"
+        ],
+        "owner": {
+            "account_id": 19426455,
+            "reputation": 3,
+            "user_id": 14207869,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/b695ef38649316fa39a79fdf880675ec?s=256&d=identicon&r=PG&f=1",
+            "display_name": "4agreements",
+            "link": "https://stackoverflow.com/users/14207869/4agreements"
+        },
+        "is_answered": true,
+        "view_count": 21,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1680529776,
+        "creation_date": 1680529420,
+        "last_edit_date": 1680529776,
+        "question_id": 75920157,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920157/calculating-new-rows-in-the-df-from-existing-rows",
+        "title": "Calculating new rows in the DF from existing rows"
+    },
+    {
+        "tags": [
+            "flutter",
+            "dart",
+            "flutter-mapbox-gl"
+        ],
+        "owner": {
+            "account_id": 12448745,
+            "reputation": 27,
+            "user_id": 9064120,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/44b5aa4ea4dfb0f06ed5ed7abe4b4ac9?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Coderer",
+            "link": "https://stackoverflow.com/users/9064120/coderer"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529399,
+        "creation_date": 1680529399,
+        "question_id": 75920154,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920154/flutter-selection-problem-from-suggestions",
+        "title": "Flutter Selection Problem From Suggestions"
+    },
+    {
+        "tags": [
+            "jquery",
+            "facebook",
+            "facebook-graph-api"
+        ],
+        "owner": {
+            "account_id": 6714335,
+            "reputation": 954,
+            "user_id": 5242097,
+            "user_type": "registered",
+            "accept_rate": 44,
+            "profile_image": "https://www.gravatar.com/avatar/71f6e8be8556f57bbac3bcb839ad5cc4?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Rahul Gupta",
+            "link": "https://stackoverflow.com/users/5242097/rahul-gupta"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529391,
+        "creation_date": 1680529391,
+        "question_id": 75920152,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920152/how-to-implement-appsecret-proof-in-jquery",
+        "title": "How to implement appsecret_proof in jquery"
+    },
+    {
+        "tags": [
+            "javascript",
+            "reactjs",
+            "arrays",
+            "react-native"
+        ],
+        "owner": {
+            "account_id": 19912683,
+            "reputation": 119,
+            "user_id": 14590393,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgfBXpR8CUSPcEO0nlxEd-8z0nCyxfGmD_s9a1CIw=k-s256",
+            "display_name": "Shehan DMG",
+            "link": "https://stackoverflow.com/users/14590393/shehan-dmg"
+        },
+        "is_answered": false,
+        "view_count": 20,
+        "closed_date": 1680529599,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1680529845,
+        "creation_date": 1680529388,
+        "last_edit_date": 1680529845,
+        "question_id": 75920151,
+        "link": "https://stackoverflow.com/questions/75920151/is-there-a-way-to-remove-trailing-comma-in-a-arraylist-in-javascript",
+        "closed_reason": "Not suitable for this site",
+        "title": "Is there a way to remove trailing comma in a arraylist in javascript?"
+    },
+    {
+        "tags": [
+            "c#",
+            "r.net"
+        ],
+        "owner": {
+            "account_id": 14982699,
+            "reputation": 28,
+            "user_id": 10816257,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/083ceea0e45fc472f9358a6d16da7060?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Jennifer B",
+            "link": "https://stackoverflow.com/users/10816257/jennifer-b"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529373,
+        "creation_date": 1680529373,
+        "question_id": 75920150,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920150/r-net-nuget-package-not-updated-since-2020",
+        "title": "r.net nuget package not updated since 2020"
+    },
+    {
+        "tags": [
+            "javascript",
+            "html"
+        ],
+        "owner": {
+            "account_id": 8263344,
+            "reputation": 2399,
+            "user_id": 6213883,
+            "user_type": "registered",
+            "accept_rate": 69,
+            "profile_image": "https://lh6.googleusercontent.com/-Undmv-4m5tk/AAAAAAAAAAI/AAAAAAAAACA/LsFc3HVNVFE/photo.jpg?sz=256",
+            "display_name": "It&#233;ration 122442",
+            "link": "https://stackoverflow.com/users/6213883/it%c3%a9ration-122442"
+        },
+        "is_answered": false,
+        "view_count": 24,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529886,
+        "creation_date": 1680529358,
+        "last_edit_date": 1680529886,
+        "question_id": 75920146,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920146/why-cant-i-get-this-attribute-which-did-not-exist-in-original-html-but-was-add",
+        "title": "Why can&#39;t I get this attribute, which did not exist in original HTML but was added via JS?"
+    },
+    {
+        "tags": [
+            "python",
+            "netcdf4"
+        ],
+        "owner": {
+            "account_id": 17427750,
+            "reputation": 1,
+            "user_id": 21456265,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/84ee208744b24d0d0a6feba356800ef1?s=256&d=identicon&r=PG&f=1",
+            "display_name": "astrorobot",
+            "link": "https://stackoverflow.com/users/21456265/astrorobot"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1680529736,
+        "creation_date": 1680529335,
+        "question_id": 75920141,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920141/netcdf4-error-with-the-dataset-function-in-python",
+        "title": "NetCDF4 error with the Dataset function in python"
+    },
+    {
+        "tags": [
+            "javascript",
+            "google-bigquery",
+            "google-tag-manager"
+        ],
+        "owner": {
+            "account_id": 1236159,
+            "reputation": 12775,
+            "user_id": 1199712,
+            "user_type": "registered",
+            "accept_rate": 57,
+            "profile_image": "https://www.gravatar.com/avatar/764b5ec35fa2b18a1b62bbf1286f5788?s=256&d=identicon&r=PG",
+            "display_name": "h.l.m",
+            "link": "https://stackoverflow.com/users/1199712/h-l-m"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529332,
+        "creation_date": 1680529332,
+        "question_id": 75920140,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920140/custom-html-tag-variable-values-sent-to-google-big-query-for-each-click",
+        "title": "Custom HTML Tag variable values sent to google big query for each click"
+    },
+    {
+        "tags": [
+            "mongodb",
+            "mongodb-query",
+            "aggregate"
+        ],
+        "owner": {
+            "account_id": 13216928,
+            "reputation": 1209,
+            "user_id": 9545125,
+            "user_type": "registered",
+            "profile_image": "https://i.stack.imgur.com/hQ10h.png?s=256&g=1",
+            "display_name": "TheStranger",
+            "link": "https://stackoverflow.com/users/9545125/thestranger"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529297,
+        "creation_date": 1680529297,
+        "question_id": 75920138,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920138/how-do-i-reverse-referenced-documents-across-two-collections",
+        "title": "How do I reverse referenced documents across two collections?"
+    },
+    {
+        "tags": [
+            "css",
+            "css-selectors"
+        ],
+        "owner": {
+            "account_id": 22017,
+            "reputation": 17580,
+            "user_id": 53960,
+            "user_type": "registered",
+            "accept_rate": 68,
+            "profile_image": "https://i.stack.imgur.com/wzzhY.gif?s=256&g=1",
+            "display_name": "pixeline",
+            "link": "https://stackoverflow.com/users/53960/pixeline"
+        },
+        "is_answered": false,
+        "view_count": 10,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529291,
+        "creation_date": 1680529291,
+        "question_id": 75920135,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920135/selecting-the-last-element-that-has-a-specific-class",
+        "title": "Selecting the last element that has a specific class"
+    },
+    {
+        "tags": [
+            "c++",
+            "mpi"
+        ],
+        "owner": {
+            "account_id": 26447361,
+            "reputation": 1,
+            "user_id": 20091044,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/cd15267cfac4b2d6e7884a19b70a597b?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Vlad H",
+            "link": "https://stackoverflow.com/users/20091044/vlad-h"
+        },
+        "is_answered": false,
+        "view_count": 19,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529821,
+        "creation_date": 1680529289,
+        "last_edit_date": 1680529821,
+        "question_id": 75920134,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920134/segmentation-fault-11-when-running-c-code-with-mpi-library",
+        "title": "segmentation fault 11 when running c code with mpi library"
+    },
+    {
+        "tags": [
+            "opengl",
+            "glsl",
+            "compute-shader"
+        ],
+        "owner": {
+            "account_id": 13032699,
+            "reputation": 13,
+            "user_id": 9418615,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/d61b32f318b794972cb686c38327ebd9?s=256&d=identicon&r=PG&f=1",
+            "display_name": "fst",
+            "link": "https://stackoverflow.com/users/9418615/fst"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529264,
+        "creation_date": 1680529264,
+        "question_id": 75920132,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920132/how-to-store-intermediate-results-of-a-dynamic-ssbos-in-a-glsl-compute-shader",
+        "title": "How to store intermediate results of a dynamic SSBOs in a GLSL compute shader?"
+    },
+    {
+        "tags": [
+            "arrays",
+            "c",
+            "sorting",
+            "qsort"
+        ],
+        "owner": {
+            "account_id": 20670222,
+            "reputation": 787,
+            "user_id": 15176150,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/30456476cd99f5597b74749971f5fb2f?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Connor",
+            "link": "https://stackoverflow.com/users/15176150/connor"
+        },
+        "is_answered": false,
+        "view_count": 16,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1680529883,
+        "creation_date": 1680529237,
+        "question_id": 75920129,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920129/can-you-qsort-part-of-an-array",
+        "title": "Can you qsort part of an array?"
+    },
+    {
+        "tags": [
+            "c#",
+            "mvvm",
+            "uwp",
+            "frame"
+        ],
+        "owner": {
+            "account_id": 28083453,
+            "reputation": 1,
+            "user_id": 21454936,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/d74de0fba721cb0d6dd72b23b49554db?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "JoJo",
+            "link": "https://stackoverflow.com/users/21454936/jojo"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529253,
+        "creation_date": 1680529235,
+        "last_edit_date": 1680529253,
+        "question_id": 75920128,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920128/which-is-better-to-use-in-uwp-applications-page-frame-or-contentpresenter",
+        "title": "Which is better to use in UWP applications: Page-Frame or ContentPresenter?"
+    },
+    {
+        "tags": [
+            "kubernetes",
+            "ssh",
+            "alpine-linux"
+        ],
+        "owner": {
+            "account_id": 28203297,
+            "reputation": 11,
+            "user_id": 21556774,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/e7d95bff6a5c2b0c2e98659ad9552280?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "flqz",
+            "link": "https://stackoverflow.com/users/21556774/flqz"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1680529233,
+        "creation_date": 1680529233,
+        "question_id": 75920126,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920126/kubernetes-ssh-tunnel-with-authorized-keys-do-not-work",
+        "title": "Kubernetes SSH tunnel with authorized_keys do not work"
+    },
+    {
+        "tags": [
+            "amazon-web-services",
+            "grafana",
+            "aws-cdk",
+            "amazon-vpc",
+            "aws-security-group"
+        ],
+        "owner": {
+            "account_id": 4954517,
+            "reputation": 4505,
+            "user_id": 3987536,
+            "user_type": "registered",
+            "accept_rate": 89,
+            "profile_image": "https://www.gravatar.com/avatar/327abb72f81fec541e936876b90d25d2?s=256&d=identicon&r=PG",
+            "display_name": "Lawrence Aiello",
+            "link": "https://stackoverflow.com/users/3987536/lawrence-aiello"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529201,
+        "creation_date": 1680529201,
+        "question_id": 75920124,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920124/amazon-managed-grafana-enis-cannot-be-deleted",
+        "title": "Amazon Managed Grafana ENIs cannot be deleted"
+    },
+    {
+        "tags": [
+            "python",
+            "pyodide"
+        ],
+        "owner": {
+            "account_id": 3254847,
+            "reputation": 11938,
+            "user_id": 2744242,
+            "user_type": "registered",
+            "accept_rate": 89,
+            "profile_image": "https://www.gravatar.com/avatar/?s=256&d=identicon&r=PG&f=1",
+            "display_name": "rafaelcb21",
+            "link": "https://stackoverflow.com/users/2744242/rafaelcb21"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529197,
+        "creation_date": 1680529197,
+        "question_id": 75920123,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920123/how-to-import-the-pypdf4-library-in-pyodide",
+        "title": "How to import the &#39;PyPDF4&#39; library in Pyodide?"
+    },
+    {
+        "tags": [
+            "powerbi",
+            "dax"
+        ],
+        "owner": {
+            "account_id": 28202183,
+            "reputation": 1,
+            "user_id": 21555789,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxa7Z5O_kvNgGPGZ2PA6tUjokJMM6lsQYbzzhhEs=k-s256",
+            "display_name": "Krause32",
+            "link": "https://stackoverflow.com/users/21555789/krause32"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529193,
+        "creation_date": 1680529193,
+        "question_id": 75920122,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920122/how-do-i-count-a-measure-by-data-and-with-condition",
+        "title": "How do I count a measure by data and with condition"
+    },
+    {
+        "tags": [
+            "javascript",
+            "reactjs",
+            "hyperlink",
+            "href"
+        ],
+        "owner": {
+            "account_id": 27618440,
+            "reputation": 1,
+            "user_id": 21080043,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/2733a10414a00a497e1492e19b099b30?s=256&d=identicon&r=PG&f=1",
+            "display_name": "mariadev",
+            "link": "https://stackoverflow.com/users/21080043/mariadev"
+        },
+        "is_answered": false,
+        "view_count": 15,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1680529777,
+        "creation_date": 1680529176,
+        "last_edit_date": 1680529201,
+        "question_id": 75920120,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920120/prevent-realoading-the-page-when-opening-a-new-tab",
+        "title": "Prevent realoading the page when opening a new tab"
+    },
+    {
+        "tags": [
+            "php",
+            "wordpress",
+            "woocommerce",
+            "hook-woocommerce"
+        ],
+        "owner": {
+            "account_id": 17892765,
+            "reputation": 105,
+            "user_id": 12998901,
+            "user_type": "registered",
+            "profile_image": "https://i.stack.imgur.com/YYWPS.jpg?s=256&g=1",
+            "display_name": "Davood Kazemi",
+            "link": "https://stackoverflow.com/users/12998901/davood-kazemi"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1680529172,
+        "creation_date": 1680529172,
+        "question_id": 75920119,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920119/woocommerce-hook-all-cart-items-behave-correctly-except-the-first-item",
+        "title": "Woocommerce hook - all cart items behave correctly except the first item"
+    },
+    {
+        "tags": [
+            "android",
+            "build.gradle",
+            "build-error",
+            "sinch",
+            "android-sinch-api"
+        ],
+        "owner": {
+            "account_id": 28103257,
+            "reputation": 3,
+            "user_id": 21472214,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZA1cgRzIYVclt2x3WGDF5AibtF-iXJS3IkukCoOw=k-s256",
+            "display_name": "A_37_Abhishek Shelar",
+            "link": "https://stackoverflow.com/users/21472214/a-37-abhishek-shelar"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529165,
+        "creation_date": 1680529165,
+        "question_id": 75920116,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920116/im-trying-to-add-the-sinch-library-in-my-android-studio-project-but-error-occur",
+        "title": "I&#39;m trying to add the sinch library in my android studio project but error occured"
+    },
+    {
+        "tags": [
+            "sql",
+            "duplicates",
+            "db2",
+            "row"
+        ],
+        "owner": {
+            "account_id": 26613701,
+            "reputation": 1,
+            "user_id": 20233491,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu3wNMNASPMbivtBcc3p-8pTQ2jPL87i-zakcGOX=k-s256",
+            "display_name": "J123",
+            "link": "https://stackoverflow.com/users/20233491/j123"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1680529151,
+        "creation_date": 1680529151,
+        "question_id": 75920113,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920113/dividing-up-duplicate-rows-results-into-two-rows-db2",
+        "title": "Dividing up Duplicate Rows Results into Two Rows DB2"
+    },
+    {
+        "tags": [
+            "angular",
+            "angular-router",
+            "angular-router-guards",
+            "canactivate",
+            "angular-guards"
+        ],
+        "owner": {
+            "account_id": 15981311,
+            "reputation": 13,
+            "user_id": 11532934,
+            "user_type": "registered",
+            "profile_image": "https://lh5.googleusercontent.com/-Bsnt2B5ybHA/AAAAAAAAAAI/AAAAAAAAAAc/9II5z4jk4jc/photo.jpg?sz=256",
+            "display_name": "Dorian",
+            "link": "https://stackoverflow.com/users/11532934/dorian"
+        },
+        "is_answered": false,
+        "view_count": 12,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529843,
+        "creation_date": 1680529134,
+        "last_edit_date": 1680529843,
+        "question_id": 75920110,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920110/lock-deny-url-from-users-angular-guard",
+        "title": "Lock/deny url from users (angular guard)"
+    },
+    {
+        "tags": [
+            "python",
+            "tensorflow",
+            "machine-learning",
+            "deep-learning",
+            "lstm"
+        ],
+        "owner": {
+            "account_id": 28194535,
+            "reputation": 1,
+            "user_id": 21549403,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/c8291fc247dad04cb55cd79ebf1a7169?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "seongmin",
+            "link": "https://stackoverflow.com/users/21549403/seongmin"
+        },
+        "is_answered": false,
+        "view_count": 11,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1680529270,
+        "creation_date": 1680529118,
+        "question_id": 75920108,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920108/lstm-how-do-i-get-result-of-predictx-test-as-2d",
+        "title": "LSTM : How do I get result of predict(x_test) as 2d"
+    },
+    {
+        "tags": [
+            "javascript",
+            "java",
+            "encryption",
+            "aes"
+        ],
+        "owner": {
+            "account_id": 17124342,
+            "reputation": 1,
+            "user_id": 12391920,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/ca4f410759883b5d5463d203af119195?s=256&d=identicon&r=PG&f=1",
+            "display_name": "vicinl",
+            "link": "https://stackoverflow.com/users/12391920/vicinl"
+        },
+        "is_answered": false,
+        "view_count": 15,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1680529357,
+        "creation_date": 1680529117,
+        "question_id": 75920107,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920107/aes-encryption-between-java-server-and-js-client",
+        "title": "AES encryption between Java (server) and JS (client)"
+    },
+    {
+        "tags": [
+            "python",
+            "datetime",
+            "bokeh",
+            "formatter"
+        ],
+        "owner": {
+            "account_id": 2796529,
+            "reputation": 2253,
+            "user_id": 2405663,
+            "user_type": "registered",
+            "accept_rate": 48,
+            "profile_image": "https://www.gravatar.com/avatar/ded7b79bc778bdbd87e808c0e9664796?s=256&d=identicon&r=PG",
+            "display_name": "bircastri",
+            "link": "https://stackoverflow.com/users/2405663/bircastri"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529116,
+        "creation_date": 1680529116,
+        "question_id": 75920106,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920106/set-intervale-of-datetime-in-x-axis-of-line-chart-bokeh",
+        "title": "Set intervale of datetime in X Axis of Line chart bokeh"
+    },
+    {
+        "tags": [
+            "nestjs"
+        ],
+        "owner": {
+            "account_id": 21740561,
+            "reputation": 245,
+            "user_id": 16047994,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/f0f4c0ad31d3fca50b4152a1292593e5?s=256&d=identicon&r=PG&f=1",
+            "display_name": "mark",
+            "link": "https://stackoverflow.com/users/16047994/mark"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529112,
+        "creation_date": 1680529112,
+        "question_id": 75920105,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920105/how-to-use-cache-manager-inside-interceptor-in-nestjs",
+        "title": "How to use cache-manager inside interceptor in NestJS?"
+    },
+    {
+        "tags": [
+            "java",
+            "apache",
+            "maven",
+            "pom.xml"
+        ],
+        "owner": {
+            "account_id": 28203327,
+            "reputation": 1,
+            "user_id": 21556800,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/c8eb6bb8a3f78e57590c8d142a3dca49?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "IMAD",
+            "link": "https://stackoverflow.com/users/21556800/imad"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529108,
+        "creation_date": 1680529108,
+        "question_id": 75920103,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920103/fail-to-execute-goal-org-apache-maven-pluginsmaven-compiler-plugin3-8-1compil",
+        "title": "Fail to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile"
+    },
+    {
+        "tags": [
+            "azure",
+            "powershell",
+            "azure-b2c",
+            "azure-app-registration"
+        ],
+        "owner": {
+            "account_id": 24575438,
+            "reputation": 115,
+            "user_id": 18481297,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/9c127b870e9d42639133ee8cfd3b9ca0?s=256&d=identicon&r=PG&f=1",
+            "display_name": "nD0613",
+            "link": "https://stackoverflow.com/users/18481297/nd0613"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529103,
+        "creation_date": 1680529103,
+        "question_id": 75920102,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920102/how-can-i-generate-a-new-application-secret-in-azure-b2c",
+        "title": "How can I generate a new application secret in Azure B2C?"
+    },
+    {
+        "tags": [
+            "firebase",
+            "google-cloud-firestore",
+            "firebase-authentication",
+            "permissions",
+            "firebase-security"
+        ],
+        "owner": {
+            "account_id": 10173474,
+            "reputation": 41,
+            "user_id": 7513001,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/375fb5ee88f288cb33a961018bc6c916?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Bryan C",
+            "link": "https://stackoverflow.com/users/7513001/bryan-c"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529096,
+        "creation_date": 1680529096,
+        "question_id": 75920101,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920101/firebase-cloud-firestore-permission-denied",
+        "title": "Firebase Cloud Firestore PERMISSION_DENIED"
+    },
+    {
+        "tags": [
+            "php",
+            "model-view-controller",
+            "view",
+            "controller",
+            "architectural-patterns"
+        ],
+        "owner": {
+            "account_id": 13086910,
+            "reputation": 173,
+            "user_id": 9455607,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/571f53cf3216684e3a7731642b9d4485?s=256&d=identicon&r=PG&f=1",
+            "display_name": "dakis",
+            "link": "https://stackoverflow.com/users/9455607/dakis"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529095,
+        "creation_date": 1680529095,
+        "question_id": 75920100,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920100/is-controller-mandatory-when-searching-data",
+        "title": "Is controller mandatory when searching data?"
+    },
+    {
+        "tags": [
+            "powerbi"
+        ],
+        "owner": {
+            "account_id": 25866272,
+            "reputation": 1,
+            "user_id": 19597896,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AItbvmnJo540ZHIUo6dbadjBq3u_pPhZY4e0oMU_yXaW=k-s256",
+            "display_name": "k3tj0w",
+            "link": "https://stackoverflow.com/users/19597896/k3tj0w"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529086,
+        "creation_date": 1680529086,
+        "question_id": 75920098,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920098/power-bi-creation-of-double-chart",
+        "title": "Power BI creation of double chart"
+    },
+    {
+        "tags": [
+            "biometrics",
+            "webauthn"
+        ],
+        "owner": {
+            "account_id": 40899,
+            "reputation": 72477,
+            "user_id": 118703,
+            "user_type": "registered",
+            "accept_rate": 68,
+            "profile_image": "https://www.gravatar.com/avatar/4ec905870f05ccb503cf38bdb9b0e2b8?s=256&d=identicon&r=PG",
+            "display_name": "Samuel Neff",
+            "link": "https://stackoverflow.com/users/118703/samuel-neff"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529057,
+        "creation_date": 1680529057,
+        "question_id": 75920096,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920096/webauthn-tied-to-device-user-or-can-multiple-users-authenticate-separately",
+        "title": "WebAuthN tied to device user or can multiple users authenticate separately?"
+    },
+    {
+        "tags": [
+            "javascript",
+            "reactjs",
+            "react-router",
+            "electron",
+            "react-router-dom"
+        ],
+        "owner": {
+            "account_id": 28202974,
+            "reputation": 1,
+            "user_id": 21556483,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/d74c0502a1f08058c4c06bbf95a4856c?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "KiosoKen",
+            "link": "https://stackoverflow.com/users/21556483/kiosoken"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529055,
+        "creation_date": 1680529055,
+        "question_id": 75920095,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920095/electron-js-ignores-the-route-component-after-exporting-the-app-by-running-the-b",
+        "title": "Electron.js ignores the route component after exporting the app by running the build command"
+    },
+    {
+        "tags": [
+            "c#",
+            "asp.net",
+            "gridview",
+            "refresh",
+            "reloading"
+        ],
+        "owner": {
+            "account_id": 28202295,
+            "reputation": 1,
+            "user_id": 21555880,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZs58kvYhrLFRX2G_dtElzm52CTjt-37cFzzIyK=k-s256",
+            "display_name": "Chandra Shekhar Azad",
+            "link": "https://stackoverflow.com/users/21555880/chandra-shekhar-azad"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529052,
+        "creation_date": 1680529052,
+        "question_id": 75920094,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920094/how-to-refresh-gridview-without-reloading-whole-page-in-asp-net-c",
+        "title": "How to refresh gridview without reloading whole page in ASP.net C#"
+    },
+    {
+        "tags": [
+            "c++",
+            "qt",
+            "hash",
+            "cryptography",
+            "pbkdf2"
+        ],
+        "owner": {
+            "account_id": 11024478,
+            "reputation": 27,
+            "user_id": 8097778,
+            "user_type": "registered",
+            "profile_image": "https://i.stack.imgur.com/rJfC8.jpg?s=256&g=1",
+            "display_name": "Martin Rosenquist",
+            "link": "https://stackoverflow.com/users/8097778/martin-rosenquist"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1680529050,
+        "creation_date": 1680529050,
+        "question_id": 75920093,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920093/pbkdf2-second-block-is-not-calculated-correctly",
+        "title": "PBKDF2 second block is not calculated correctly"
+    },
+    {
+        "tags": [
+            "python",
+            "html",
+            "css",
+            "selenium-webdriver",
+            "testng"
+        ],
+        "owner": {
+            "account_id": 28203347,
+            "reputation": 1,
+            "user_id": 21556817,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxa8F8YKo9WvZ8gR-3Z0AvEUbrKrvM5c5GuMNtbEg4c=k-s256",
+            "display_name": "test one",
+            "link": "https://stackoverflow.com/users/21556817/test-one"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1680529040,
+        "creation_date": 1680529040,
+        "question_id": 75920092,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920092/after-update-selenium-2-43-to-4-8-2-atu-report-not-working",
+        "title": "After update selenium 2.43 to 4.8.2. ATU report not working"
+    },
+    {
+        "tags": [
+            "reactjs"
+        ],
+        "owner": {
+            "account_id": 23104207,
+            "reputation": 111,
+            "user_id": 17506985,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/02c9c88dbdd9750a93b2650831cc7bc3?s=256&d=identicon&r=PG",
+            "display_name": "Cucumberbatch",
+            "link": "https://stackoverflow.com/users/17506985/cucumberbatch"
+        },
+        "is_answered": false,
+        "view_count": 10,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529032,
+        "creation_date": 1680529032,
+        "question_id": 75920091,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920091/dynamically-modifying-an-object",
+        "title": "Dynamically modifying an object"
+    },
+    {
+        "tags": [
+            "database",
+            "symfony",
+            "sql-update",
+            "database-migration",
+            "symfony6"
+        ],
+        "owner": {
+            "account_id": 26993542,
+            "reputation": 26,
+            "user_id": 20556043,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/751fc5782c49ff3cdca40ea899b712bf?s=256&d=identicon&r=PG",
+            "display_name": "Dwimland",
+            "link": "https://stackoverflow.com/users/20556043/dwimland"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529024,
+        "creation_date": 1680529024,
+        "question_id": 75920088,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920088/symfony-migration-the-table-with-name-name-already-exists",
+        "title": "Symfony migration &quot;The table with name &quot;[name]&quot; already exists"
+    },
+    {
+        "tags": [
+            "dns",
+            "cpanel",
+            "cloudflare",
+            "dkim"
+        ],
+        "owner": {
+            "account_id": 3023107,
+            "reputation": 802,
+            "user_id": 3178880,
+            "user_type": "registered",
+            "accept_rate": 71,
+            "profile_image": "https://graph.facebook.com/100000326010329/picture?type=large",
+            "display_name": "Sanjay Goswami",
+            "link": "https://stackoverflow.com/users/3178880/sanjay-goswami"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529019,
+        "creation_date": 1680529019,
+        "question_id": 75920087,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920087/how-to-add-2-dkim-entries-provided-by-my-host-on-cloudflare",
+        "title": "How to add 2 DKIM entries provided by my host on cloudflare"
+    },
+    {
+        "tags": [
+            "c",
+            "language-lawyer",
+            "c-strings",
+            "strncmp"
+        ],
+        "owner": {
+            "account_id": 1519336,
+            "reputation": 668,
+            "user_id": 2057969,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/9a2a51715e22f97fb96bff03b2a1138a?s=256&d=identicon&r=PG",
+            "display_name": "Lover of Structure",
+            "link": "https://stackoverflow.com/users/2057969/lover-of-structure"
+        },
+        "is_answered": true,
+        "view_count": 17,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1680529455,
+        "creation_date": 1680529013,
+        "last_edit_date": 1680529455,
+        "question_id": 75920085,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920085/is-it-undefined-behavior-what-strncmps1-s2-0-returns-i-e-the-last-argume",
+        "title": "Is it undefined behavior what strncmp(*s1, *s2, 0) returns (i.e. the last argument is zero)?"
+    },
+    {
+        "tags": [
+            "c++",
+            "pointers"
+        ],
+        "owner": {
+            "account_id": 28203156,
+            "reputation": 1,
+            "user_id": 21556643,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZMKCDbom0EY2r4YKz0EjARqUoXu231k4u_GAs=k-s256",
+            "display_name": "user21556643",
+            "link": "https://stackoverflow.com/users/21556643/user21556643"
+        },
+        "is_answered": false,
+        "view_count": 21,
+        "answer_count": 1,
+        "score": -3,
+        "last_activity_date": 1680529755,
+        "creation_date": 1680529003,
+        "last_edit_date": 1680529210,
+        "question_id": 75920084,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920084/why-do-ptr-and-ptr-show-the-same-value-when-ptr-is-an-array-of-pointers",
+        "title": "Why do ptr and *ptr show the same value when ptr is an array of pointers?"
+    },
+    {
+        "tags": [
+            "r",
+            "shiny",
+            "mathjax"
+        ],
+        "owner": {
+            "account_id": 14616952,
+            "reputation": 858,
+            "user_id": 10556787,
+            "user_type": "registered",
+            "profile_image": "https://i.stack.imgur.com/Dc4s8.png?s=256&g=1",
+            "display_name": "Magnus Nordmo",
+            "link": "https://stackoverflow.com/users/10556787/magnus-nordmo"
+        },
+        "is_answered": true,
+        "view_count": 8,
+        "accepted_answer_id": 75920137,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1680529295,
+        "creation_date": 1680528991,
+        "question_id": 75920083,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920083/how-to-utilize-renderui-and-loading-mathjax-manually",
+        "title": "How to utilize renderUI and loading MathJax manually"
+    },
+    {
+        "tags": [
+            "javascript",
+            "html",
+            "css",
+            "webos"
+        ],
+        "owner": {
+            "account_id": 28042409,
+            "reputation": 1,
+            "user_id": 21419747,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxYspW9C_novKxj43Won8Vr3BOWF_RExM6oPKUWz=k-s256",
+            "display_name": "nathan augusto barbosa",
+            "link": "https://stackoverflow.com/users/21419747/nathan-augusto-barbosa"
+        },
+        "is_answered": false,
+        "view_count": 14,
+        "answer_count": 0,
+        "score": -2,
+        "last_activity_date": 1680528979,
+        "creation_date": 1680528979,
+        "question_id": 75920080,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920080/i-want-to-make-a-json-that-returns-the-tv-serial",
+        "title": "I want to make a json that returns the tv serial"
+    },
+    {
+        "tags": [
+            "html",
+            "css",
+            "image",
+            "flexbox",
+            "resize"
+        ],
+        "owner": {
+            "account_id": 27736373,
+            "reputation": 1,
+            "user_id": 21173872,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/617eb091eeacea7620b73d8ca89dcc72?s=256&d=identicon&r=PG",
+            "display_name": "Colin Maxwell",
+            "link": "https://stackoverflow.com/users/21173872/colin-maxwell"
+        },
+        "is_answered": false,
+        "view_count": 11,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529387,
+        "creation_date": 1680528977,
+        "last_edit_date": 1680529387,
+        "question_id": 75920079,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920079/how-do-i-minimize-images-when-i-make-my-screen-smaller",
+        "title": "How do I minimize images when I make my screen smaller?"
+    },
+    {
+        "tags": [
+            "java",
+            "pdfbox"
+        ],
+        "owner": {
+            "account_id": 19400955,
+            "reputation": 1,
+            "user_id": 14187526,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/f02fa3bf62028fe9007379183a54e215?s=256&d=identicon&r=PG&f=1",
+            "display_name": "rahim soufiane",
+            "link": "https://stackoverflow.com/users/14187526/rahim-soufiane"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529048,
+        "creation_date": 1680528951,
+        "last_edit_date": 1680529048,
+        "question_id": 75920075,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920075/pdfbox-haw-to-working-with-wingdings-regular-font-font",
+        "title": "pdfbox haw to working with Wingdings-Regular-Font font"
+    },
+    {
+        "tags": [
+            ".net",
+            "asp.net-mvc-5.2"
+        ],
+        "owner": {
+            "account_id": 28171665,
+            "reputation": 1,
+            "user_id": 21530118,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxYhZjdP76YcPq_QQ-U1F2JyuyvPqTSQXoXmi6GK=k-s256",
+            "display_name": "Rakesh Kumar",
+            "link": "https://stackoverflow.com/users/21530118/rakesh-kumar"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528919,
+        "creation_date": 1680528919,
+        "question_id": 75920073,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920073/could-not-load-file-or-assembly-system-windows-version-5-0-5-0",
+        "title": "could not load file or assembly &#39;system.windows, version=5.0.5.0,"
+    },
+    {
+        "tags": [
+            "flutter",
+            "firebase",
+            "migration",
+            "flutter-dependencies",
+            "appwrite"
+        ],
+        "owner": {
+            "account_id": 11409045,
+            "reputation": 1,
+            "user_id": 8363726,
+            "user_type": "registered",
+            "profile_image": "https://graph.facebook.com/621160351385822/picture?type=large",
+            "display_name": "Greatness Washington",
+            "link": "https://stackoverflow.com/users/8363726/greatness-washington"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529640,
+        "creation_date": 1680528907,
+        "question_id": 75920069,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920069/how-can-i-migrate-my-flutter-app-from-firebase-to-appwrite",
+        "title": "How can i migrate my flutter app from firebase to Appwrite?"
+    },
+    {
+        "tags": [
+            "spring",
+            "spring-boot",
+            "spring-webflux",
+            "webclient",
+            "spring-webclient"
+        ],
+        "owner": {
+            "account_id": 24566710,
+            "reputation": 3,
+            "user_id": 18473757,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/513740d87cb3ccc976b77cfc0a228005?s=256&d=identicon&r=PG",
+            "display_name": "Tokoro-San",
+            "link": "https://stackoverflow.com/users/18473757/tokoro-san"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528900,
+        "creation_date": 1680528900,
+        "question_id": 75920067,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920067/spring-webclient-connection-prematurely-closed-before-response",
+        "title": "Spring Webclient - Connection prematurely closed before response"
+    },
+    {
+        "tags": [
+            "django",
+            "htmx"
+        ],
+        "owner": {
+            "account_id": 12604249,
+            "reputation": 47,
+            "user_id": 9165809,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/fa400b70b580fc82700a1c0f08ab83e9?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Banillie",
+            "link": "https://stackoverflow.com/users/9165809/banillie"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528899,
+        "creation_date": 1680528899,
+        "question_id": 75920066,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920066/refresh-django-form-widgets-using-htmx",
+        "title": "Refresh django form widgets using htmx"
+    },
+    {
+        "tags": [
+            "swift",
+            "parameter-passing",
+            "viewcontroller",
+            "init"
+        ],
+        "owner": {
+            "account_id": 27661127,
+            "reputation": 1,
+            "user_id": 21113946,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/e5813d5f2416ddcc2a974f7a19955c0a?s=256&d=identicon&r=PG",
+            "display_name": "MartinG",
+            "link": "https://stackoverflow.com/users/21113946/marting"
+        },
+        "is_answered": false,
+        "view_count": 17,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1680529038,
+        "creation_date": 1680528896,
+        "last_edit_date": 1680529038,
+        "question_id": 75920065,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920065/i-cant-access-a-view-controller-because-of-a-custom-init-swift",
+        "title": "I can&#39;t access a view controller because of a custom init (Swift)"
+    },
+    {
+        "tags": [
+            "pandas",
+            "csv",
+            "jupyter-notebook"
+        ],
+        "owner": {
+            "account_id": 24729614,
+            "reputation": 51,
+            "user_id": 18617760,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AATXAJxpqTEGAVEBDtWCY_ei4uhUjqOdNWXZFdgsr16W=k-s256",
+            "display_name": "Samgrill",
+            "link": "https://stackoverflow.com/users/18617760/samgrill"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528894,
+        "creation_date": 1680528894,
+        "question_id": 75920064,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920064/csv-pandas-import-issue-tried-multiple-methods-and-still-no-joy",
+        "title": "csv Pandas Import Issue - tried multiple methods and still no joy"
+    },
+    {
+        "tags": [
+            "reactjs",
+            "material-ui",
+            "mui-datagrid"
+        ],
+        "owner": {
+            "account_id": 6400178,
+            "reputation": 2030,
+            "user_id": 5439669,
+            "user_type": "registered",
+            "accept_rate": 80,
+            "profile_image": "https://i.stack.imgur.com/QP2OV.jpg?s=256&g=1",
+            "display_name": "Embedded_Mugs",
+            "link": "https://stackoverflow.com/users/5439669/embedded-mugs"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528890,
+        "creation_date": 1680528890,
+        "question_id": 75920063,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920063/when-i-try-to-use-usekeepgroupedcolumnshidden-in-muis-datagrid-it-is-throwing",
+        "title": "When I try to use useKeepGroupedColumnsHidden in MUI&#39;s DataGrid, it is throwing the error props.apiRef.current.subscribeEvent is not a function"
+    },
+    {
+        "tags": [
+            "javascript",
+            "jquery",
+            "html-table",
+            "datatables"
+        ],
+        "owner": {
+            "account_id": 27328104,
+            "reputation": 1,
+            "user_id": 20840757,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/2501ab7d689fabfaff4dfd1238d17cfa?s=256&d=identicon&r=PG",
+            "display_name": "izzemon",
+            "link": "https://stackoverflow.com/users/20840757/izzemon"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528888,
+        "creation_date": 1680528888,
+        "question_id": 75920062,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920062/jquery-datatables-cells-added-via-rowgroup-always-get-colspan-over-all-cols-h",
+        "title": "jQuery Datatables - cells added via rowGroup always get colspan over all cols. How can i change this behaviour?"
+    },
+    {
+        "tags": [
+            "pyside6",
+            "read-the-docs"
+        ],
+        "owner": {
+            "account_id": 28203230,
+            "reputation": 1,
+            "user_id": 21556710,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/019f6caa8ef13baf81b0a4cf96506103?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "Pierre",
+            "link": "https://stackoverflow.com/users/21556710/pierre"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528882,
+        "creation_date": 1680528882,
+        "question_id": 75920061,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920061/readthedocs-compilation-error-with-pyside6-6-2-4",
+        "title": "ReadTheDocs : compilation Error with PySide6 6.2.4?"
+    },
+    {
+        "tags": [
+            "r",
+            "ggplot2"
+        ],
+        "owner": {
+            "account_id": 22215234,
+            "reputation": 179,
+            "user_id": 16453788,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/a3bfefca210dbd147e0c9086f8189f15?s=256&d=identicon&r=PG&f=1",
+            "display_name": "anrisakaki96",
+            "link": "https://stackoverflow.com/users/16453788/anrisakaki96"
+        },
+        "is_answered": false,
+        "view_count": 12,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1680529170,
+        "creation_date": 1680528877,
+        "question_id": 75920060,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920060/how-do-i-create-a-bar-chart-with-categorical-variables-ggplot",
+        "title": "How do I create a bar chart with categorical variables ggplot?"
+    },
+    {
+        "tags": [
+            "arrays",
+            "json",
+            "swift",
+            "dictionary",
+            "parameters"
+        ],
+        "owner": {
+            "account_id": 27918497,
+            "reputation": 7,
+            "user_id": 21319164,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/1a640701d862d45014da8e7cd9709a47?s=256&d=identicon&r=PG",
+            "display_name": "swift doubts",
+            "link": "https://stackoverflow.com/users/21319164/swift-doubts"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528865,
+        "creation_date": 1680528865,
+        "question_id": 75920058,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920058/how-to-pass-array-values-separately-while-json-parameter-parsing-in-swift",
+        "title": "How to pass array values separately while JSON parameter parsing in swift"
+    },
+    {
+        "tags": [
+            "angular",
+            "kiosk-mode"
+        ],
+        "owner": {
+            "account_id": 23247396,
+            "reputation": 61,
+            "user_id": 17335781,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gh3D0xvLtmajMVFl92Vmg5oGz1ZjiA3HsOedoq05w=k-s256",
+            "display_name": "Bessonniy",
+            "link": "https://stackoverflow.com/users/17335781/bessonniy"
+        },
+        "is_answered": false,
+        "view_count": 8,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528859,
+        "creation_date": 1680528859,
+        "question_id": 75920056,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920056/how-to-close-unnecessary-tabs-in-chrome-kiosk",
+        "title": "How to close unnecessary tabs in chrome-kiosk"
+    },
+    {
+        "tags": [
+            "javascript",
+            "html",
+            "css",
+            "menu"
+        ],
+        "owner": {
+            "account_id": 28203113,
+            "reputation": 1,
+            "user_id": 21556603,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxYH_5Oy5uXJ_-3qUUZJOU8SxkguZFUBTFtl3plb=k-s256",
+            "display_name": "John Vining",
+            "link": "https://stackoverflow.com/users/21556603/john-vining"
+        },
+        "is_answered": false,
+        "view_count": 18,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1680529010,
+        "creation_date": 1680528854,
+        "last_edit_date": 1680529010,
+        "question_id": 75920055,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920055/is-there-something-wrong-with-this-js-for-a-sidebar-menu",
+        "title": "is there something wrong with this Js for a sidebar menu"
+    },
+    {
+        "tags": [
+            "permissions",
+            "ftp"
+        ],
+        "owner": {
+            "account_id": 2375220,
+            "reputation": 1670,
+            "user_id": 2092236,
+            "user_type": "registered",
+            "accept_rate": 68,
+            "profile_image": "https://www.gravatar.com/avatar/f31bef5ce787bafd90b708edb563cf67?s=256&d=identicon&r=PG",
+            "display_name": "JoaMika",
+            "link": "https://stackoverflow.com/users/2092236/joamika"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528835,
+        "creation_date": 1680528835,
+        "question_id": 75920054,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920054/ftp-file-uploads-owned-by-user-instead-of-www-data",
+        "title": "FTP File uploads owned by user instead of www-data"
+    },
+    {
+        "tags": [
+            "reveal.js"
+        ],
+        "owner": {
+            "account_id": 2658363,
+            "reputation": 183,
+            "user_id": 2298594,
+            "user_type": "registered",
+            "accept_rate": 41,
+            "profile_image": "https://www.gravatar.com/avatar/8eda6428189861aa62598d26cf59e7b6?s=256&d=identicon&r=PG",
+            "display_name": "John Crest",
+            "link": "https://stackoverflow.com/users/2298594/john-crest"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529261,
+        "creation_date": 1680528832,
+        "last_edit_date": 1680529261,
+        "question_id": 75920053,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920053/changing-section-margin-padding-so-multiple-images-arent-small",
+        "title": "changing section margin/padding so multiple images aren&#39;t small"
+    },
+    {
+        "tags": [
+            "c#",
+            "for-loop",
+            "primes",
+            "boolean-logic"
+        ],
+        "owner": {
+            "account_id": 28203222,
+            "reputation": 11,
+            "user_id": 21556703,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/037554b52f35f660b10fcddde0f4376a?s=256&d=identicon&r=PG&f=y&so-version=2",
+            "display_name": "Angelos Makrygiannis",
+            "link": "https://stackoverflow.com/users/21556703/angelos-makrygiannis"
+        },
+        "is_answered": false,
+        "view_count": 27,
+        "closed_date": 1680529650,
+        "answer_count": 2,
+        "score": -1,
+        "last_activity_date": 1680529631,
+        "creation_date": 1680528821,
+        "last_edit_date": 1680529036,
+        "question_id": 75920052,
+        "link": "https://stackoverflow.com/questions/75920052/c-not-all-code-paths-return-a-value-method-to-get-all-prime-numbers-in-given-r",
+        "closed_reason": "Duplicate",
+        "title": "C# not all code paths return a value. Method to get all prime numbers in given range is not working"
+    },
+    {
+        "tags": [
+            "sql",
+            "postgresql",
+            "timescaledb"
+        ],
+        "owner": {
+            "account_id": 18616084,
+            "reputation": 1,
+            "user_id": 16749226,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/25764f21d2db94fce1447adddc8d713f?s=256&d=identicon&r=PG&f=1",
+            "display_name": "dev-",
+            "link": "https://stackoverflow.com/users/16749226/dev"
+        },
+        "is_answered": false,
+        "view_count": 10,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680529195,
+        "creation_date": 1680528815,
+        "last_edit_date": 1680529195,
+        "question_id": 75920050,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920050/combine-timeseries-data-into-datapoints-with-start-end-intervals-based-on-time-d",
+        "title": "Combine timeseries data into datapoints with start-end-intervals based on time difference"
+    },
+    {
+        "tags": [
+            "swift",
+            "uikit",
+            "diffabledatasource"
+        ],
+        "owner": {
+            "account_id": 28203293,
+            "reputation": 1,
+            "user_id": 21556770,
+            "user_type": "registered",
+            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxbTbghqHDAHh5Bcdx5wPavlg_IlLCdEYRqiv_s0=k-s256",
+            "display_name": "Tudor Neagu",
+            "link": "https://stackoverflow.com/users/21556770/tudor-neagu"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528824,
+        "creation_date": 1680528800,
+        "last_edit_date": 1680528824,
+        "question_id": 75920048,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920048/passing-uiview-to-reusable-cell-using-uicontentconfiguration-and-uicontentview",
+        "title": "Passing UIView to Reusable cell using UIContentConfiguration and UIContentView"
+    },
+    {
+        "tags": [
+            "kubernetes",
+            "logging",
+            "minikube",
+            "logrotate"
+        ],
+        "owner": {
+            "account_id": 17298092,
+            "reputation": 360,
+            "user_id": 12528320,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/7ef7a1f6ab310699128d6a6f01ebca69?s=256&d=identicon&r=PG&f=1",
+            "display_name": "blanNL",
+            "link": "https://stackoverflow.com/users/12528320/blannl"
+        },
+        "is_answered": false,
+        "view_count": 3,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528787,
+        "creation_date": 1680528787,
+        "question_id": 75920046,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920046/how-to-configure-minikube-container-log-max-size-and-container-log-max-files",
+        "title": "How to configure minikube container log max size and container log max files?"
+    },
+    {
+        "tags": [
+            "node.js",
+            "mongodb"
+        ],
+        "owner": {
+            "account_id": 7659818,
+            "reputation": 295,
+            "user_id": 5805465,
+            "user_type": "registered",
+            "profile_image": "https://i.stack.imgur.com/HBjhJ.png?s=256&g=1",
+            "display_name": "Plagiatus",
+            "link": "https://stackoverflow.com/users/5805465/plagiatus"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528764,
+        "creation_date": 1680528764,
+        "question_id": 75920044,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920044/querying-mongodb-documents-based-on-overlapping-conditions",
+        "title": "Querying mongodb documents based on overlapping conditions"
+    },
+    {
+        "tags": [
+            "angular",
+            "rxjs"
+        ],
+        "owner": {
+            "account_id": 22158034,
+            "reputation": 61,
+            "user_id": 16405471,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/021a9a96d5391867bf78f1f42685e365?s=256&d=identicon&r=PG&f=1",
+            "display_name": "user16405471",
+            "link": "https://stackoverflow.com/users/16405471/user16405471"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528736,
+        "creation_date": 1680528736,
+        "question_id": 75920043,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920043/modify-observable-property-without-updating-entire-observable",
+        "title": "modify observable property without updating entire observable"
+    },
+    {
+        "tags": [
+            "flutter"
+        ],
+        "owner": {
+            "account_id": 21064198,
+            "reputation": 309,
+            "user_id": 15481917,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/9cb39bb159c2108263c96eceddf900f2?s=256&d=identicon&r=PG&f=1",
+            "display_name": "Orl13",
+            "link": "https://stackoverflow.com/users/15481917/orl13"
+        },
+        "is_answered": false,
+        "view_count": 10,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1680528861,
+        "creation_date": 1680528726,
+        "question_id": 75920040,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920040/flutter-components-overlap-the-phones-top-bar",
+        "title": "Flutter: components overlap the phone&#39;s top bar"
+    },
+    {
+        "tags": [
+            "jquery",
+            "autocomplete"
+        ],
+        "owner": {
+            "account_id": 27445217,
+            "reputation": 9,
+            "user_id": 20939131,
+            "user_type": "registered",
+            "profile_image": "https://www.gravatar.com/avatar/4acb40d349c6e1129d919ca05874c198?s=256&d=identicon&r=PG",
+            "display_name": "sami salaam",
+            "link": "https://stackoverflow.com/users/20939131/sami-salaam"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1680528726,
+        "creation_date": 1680528726,
+        "question_id": 75920039,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75920039/bootstrap-autocomplete-not-work-for-appended-jquery-input",
+        "title": "bootstrap Autocomplete not work for appended jquery input"
+    }
+]
