@@ -3,6 +3,8 @@ import json
 import math
 import datetime
 import statistics
+import matplotlib.pyplot as plt
+
 
 def calc_quant():
     with open('100K_questions.json', 'r') as file:
@@ -44,23 +46,34 @@ def calc_quant():
         "Sum_total": sum_total
     }
 
-    perc = (data['Count_RUST']* 100)/data['Sum_total']
-    print("Porcentagem de perguntas Rust = " , perc ,"%")
+    rust_perc = (data['Count_RUST']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas Rust = " , rust_perc ,"%")
 
-    perc = (data['Count_Python']* 100)/data['Sum_total']
-    print("Porcentagem de perguntas Python = " , perc ,"%")
+    python_perc = (data['Count_Python']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas Python = " , python_perc ,"%")
 
-    perc = (data['Count_go']* 100)/data['Sum_total']
-    print("Porcentagem de perguntas go = " , perc ,"%")
+    Go_perc = (data['Count_go']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas go = " , Go_perc ,"%")
 
-    perc = (data['Count_javascript']* 100)/data['Sum_total']
-    print("Porcentagem de perguntas javascript = " , perc ,"%")
+    javascript_perc = (data['Count_javascript']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas javascript = " , javascript_perc ,"%")
 
-    perc = (data['Count_Java']* 100)/data['Sum_total']
-    print("Porcentagem de perguntas Java = " , perc ,"%")
+    java_perc = (data['Count_Java']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas Java = " , java_perc ,"%")
 
-    perc = (data['Count_other']* 100)/data['Sum_total']
-    print("Porcentagem de perguntas other = " , perc ,"%")
+    other_perc = (data['Count_other']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas other = " , other_perc ,"%")
+
+    labels = ['RUST',   'Java', 'Python', 'GO','Outras', 'Javascript',]
+    sizes = [rust_perc,java_perc, python_perc, Go_perc, other_perc,  javascript_perc,]
+
+    fig, ax = plt.subplots()
+    ax.pie(sizes, labels=labels, autopct='%1.3f%%')
+    ax.axis('equal')
+
+    plt.show()
+
+
 
 def calc_visibility(name):
             filename = name + '_questions.json'
@@ -103,9 +116,6 @@ def calc_visibility(name):
             print(name, "media", mean)
             print(name, "variancia" ,variance)
             print(name ,"percentual frequencia", f"{percentage:.2f}% foram criadas frequentemente")
-
-
-
 
 def calc_answer():
     with open('100K_questions.json', 'r') as file:
@@ -168,14 +178,29 @@ def calc_answer():
     perc_python = (python_answer*100)/python_total
     perc_java = (java_answer*100)/java_total
     perc_go = (go_answer*100)/go_total
-
-
-
-
-
-
-
     perc_normal = (other_answer*100)/others_total
+
+    labels = ['RUST',  'GO',  'Python', 'Javascript', 'Outras', 'Java']
+    sizes = [perc_rust, perc_go, perc_python, perc_javascript,  perc_normal, perc_java,]
+
+    fig, ax = plt.subplots()
+    ax.barh(labels, sizes)
+    
+
+    ax.set_xlabel('Percentuais')
+    ax.set_ylabel('Linguagens')
+    ax.set_title('Percentual de perguntas respondidas')
+
+    plt.show()
+
+
+
+
+
+
+
+
+
     
     print("Porcentagem de questions respondidas de RUST ",perc_rust,"%")
     print("Porcentagem de questions respondidas de javascript ",perc_javascript,"%")
@@ -187,8 +212,6 @@ def calc_answer():
 
 
     print("Porcentagem de questions respondidas de outras linguagens ",perc_normal,"%")
-
-
 
 def calc_frequency():
     calc_visibility("rust")
@@ -223,15 +246,26 @@ def get_all_data():
     get_data("java")
 
 
+def generate_pie_chart():
+
+    labels = ['RUST',   'Java', 'Python', 'GO', 'Javascript',]
+    sizes = [20.16, 18.12, 19.59, 22.03,  20.10,]
+
+    fig, ax = plt.subplots()
+    ax.pie(sizes, labels=labels, autopct='%1.2f%%')
+    ax.axis('equal')
+
+    plt.show()
+
 
 if __name__ == '__main__':
     #get_all_data()
-    print("----------------------------------------------------------------------")
-    calc_quant()
-    print("----------------------------------------------------------------------")
-    calc_frequency()
-    print("----------------------------------------------------------------------")
+    #print("----------------------------------------------------------------------")
+    #calc_frequency()
+    #print("----------------------------------------------------------------------")
     calc_answer()
-
-
+    #print("----------------------------------------------------------------------")
+    #calc_quant()
+    #generate_pie_chart()
+ 
  
