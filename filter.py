@@ -1,7 +1,7 @@
 import os
 import json
 import math
-from datetime import datetime
+import datetime
 import statistics
 
 def calc_quant():
@@ -47,25 +47,63 @@ def calc_quant():
     perc = (data['Count_RUST']* 100)/data['Sum_total']
     print("Porcentagem de perguntas Rust = " , perc ,"%")
 
-def calc_visibility():
-    
-    with open('100K_questions.json', 'r') as file:
-        data = file.read()
-    
-        objects = json.loads(data)
-    
-    visibility_normal = []
-    visibility_rust = []
-    for questions in objects:
-        if 'rust' in questions['tags']:
-            visibility_rust.append(questions['view_count'])
-        else:
-            visibility_normal.append(questions['view_count'])
-    
-    normal_mean = statistics.mean(visibility_normal)
-    rust_mean = statistics.mean(visibility_rust)
+    perc = (data['Count_Python']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas Python = " , perc ,"%")
 
-    print("Media normal", normal_mean, "Media Rust", rust_mean)
+    perc = (data['Count_go']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas go = " , perc ,"%")
+
+    perc = (data['Count_javascript']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas javascript = " , perc ,"%")
+
+    perc = (data['Count_Java']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas Java = " , perc ,"%")
+
+    perc = (data['Count_other']* 100)/data['Sum_total']
+    print("Porcentagem de perguntas other = " , perc ,"%")
+
+def calc_visibility(name):
+            filename = name + '_questions.json'
+            with open(filename, 'r') as file:
+                    data = file.read()
+        
+            objects = json.loads(data)
+            list_date_dif = []
+            date_dif = 0
+            int = 0
+            date = datetime.datetime(2022, 4, 2, 23, 28, 29)
+            reversed_data = list(reversed(objects))
+            z_score_data = []
+            for questions in reversed_data:
+                    if int == 0 :
+                        list_date_dif.append(date_dif)
+                        date = datetime.datetime.utcfromtimestamp(questions['creation_date'])
+                        int +=1
+                    else: 
+                        new_date = datetime.datetime.utcfromtimestamp(questions['creation_date'])
+                        date_dif = (new_date - date).seconds
+                        date = new_date
+                        list_date_dif.append(date_dif/60)
+                
+            mean = statistics.mean(list_date_dif)
+            stdev = statistics.stdev(list_date_dif)
+            variance = statistics.variance(list_date_dif)
+
+            for data in list_date_dif:
+                z_score = (data - mean) / stdev
+                z_score_data.append(z_score)
+            
+            count = 0
+            for number in z_score_data:
+                if number > 0.25:
+                    count += 1
+
+            percentage = count / len(z_score_data) * 100
+
+            print(mean)
+            print(variance)
+            print(f"{percentage:.2f}% foram criadas frequentemente")
+
 
 def calc_answer():
     with open('100K_questions.json', 'r') as file:
@@ -96,13 +134,32 @@ def calc_answer():
     print("Porcentagem de questions respondidas de outras linguagens ",perc_normal,"%")
 
 
+def get_data(type):
 
+    with open('100K_questions.json', 'r') as file:
+        data = file.read()
     
+        objects = json.loads(data)
         
+    list = []
+    for questions in objects:
+        if type in questions['tags']:
+            list.append(questions)
+    
+    filename = type +"_questions.json"
+    with open(filename, "w") as f:
+        json.dump(list, f, indent=4)
+
+        
+def get_all_data():       
+    get_data("rust")
+    get_data("javascript")
+    get_data("go")
+    get_data("python")
+    get_data("java")
 
 
 
 if __name__ == '__main__':
-    calc_quant()
-    calc_visibility()
-    calc_answer()
+    get_all_data()
+ 
