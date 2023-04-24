@@ -95,14 +95,16 @@ def calc_visibility(name):
             
             count = 0
             for number in z_score_data:
-                if number > 0.25:
+                if number > 0.5:
                     count += 1
 
             percentage = count / len(z_score_data) * 100
 
-            print(mean)
-            print(variance)
-            print(f"{percentage:.2f}% foram criadas frequentemente")
+            print(name, "media", mean)
+            print(name, "variancia" ,variance)
+            print(name ,"percentual frequencia", f"{percentage:.2f}% foram criadas frequentemente")
+
+
 
 
 def calc_answer():
@@ -115,6 +117,21 @@ def calc_answer():
     total = len(objects)
     rust_answer = 0
     rust_total = 0
+
+
+    javascript_answer = 0
+    javascript_total = 0
+
+    python_answer = 0
+    python_total = 0
+
+    java_answer = 0
+    java_total = 0
+
+    go_answer = 0
+    go_total = 0
+
+
     other_answer = 0
     others_total = 0
     for questions in objects:
@@ -122,16 +139,63 @@ def calc_answer():
             rust_total +=1
             if questions['is_answered'] is True:
                 rust_answer += 1
+        elif 'javascript' in questions['tags']:
+            javascript_total +=1
+            if questions['is_answered'] is True:
+                javascript_answer += 1
+
+        elif 'python' in questions['tags']:
+            python_total +=1
+            if questions['is_answered'] is True:
+                python_answer += 1
+        elif 'java' in questions['tags']:
+            java_total +=1
+            if questions['is_answered'] is True:
+                java_answer += 1
+        
+        elif 'go' in questions['tags']:
+            go_total +=1
+            if questions['is_answered'] is True:
+                go_answer += 1
+
         else:
             others_total +=1
             if questions['is_answered'] is True:
                 other_answer +=1
 
     perc_rust = (rust_answer*100)/rust_total
+    perc_javascript = (javascript_answer*100)/javascript_total
+    perc_python = (python_answer*100)/python_total
+    perc_java = (java_answer*100)/java_total
+    perc_go = (go_answer*100)/go_total
+
+
+
+
+
+
+
     perc_normal = (other_answer*100)/others_total
     
     print("Porcentagem de questions respondidas de RUST ",perc_rust,"%")
+    print("Porcentagem de questions respondidas de javascript ",perc_javascript,"%")
+    print("Porcentagem de questions respondidas de python ",perc_python,"%")
+    print("Porcentagem de questions respondidas de java ",perc_java,"%")
+    print("Porcentagem de questions respondidas de go ",perc_go,"%")
+
+
+
+
     print("Porcentagem de questions respondidas de outras linguagens ",perc_normal,"%")
+
+
+
+def calc_frequency():
+    calc_visibility("rust")
+    calc_visibility("javascript")
+    calc_visibility("go")
+    calc_visibility("python")
+    calc_visibility("java")
 
 
 def get_data(type):
@@ -161,5 +225,13 @@ def get_all_data():
 
 
 if __name__ == '__main__':
-    get_all_data()
+    #get_all_data()
+    print("----------------------------------------------------------------------")
+    calc_quant()
+    print("----------------------------------------------------------------------")
+    calc_frequency()
+    print("----------------------------------------------------------------------")
+    calc_answer()
+
+
  
