@@ -108,7 +108,7 @@ def calc_visibility(name):
             
             count = 0
             for number in z_score_data:
-                if number > 0.5:
+                if number < -0.25:
                     count += 1
 
             percentage = count / len(z_score_data) * 100
@@ -249,7 +249,7 @@ def get_all_data():
 def generate_pie_chart():
 
     labels = ['RUST',   'Java', 'Python', 'GO', 'Javascript',]
-    sizes = [20.16, 18.12, 19.59, 22.03,  20.10,]
+    sizes = [38.08, 36.95, 37.68, 37.46,  38.17,]
 
     fig, ax = plt.subplots()
     ax.pie(sizes, labels=labels, autopct='%1.2f%%')
@@ -257,15 +257,34 @@ def generate_pie_chart():
 
     plt.show()
 
+def generate_sidebar():
+
+    labels = ['Javascript','RUST', 'Python',  'GO','Java'   ]
+    sizes = [38.17,38.08, 37.68,  37.46 ,36.95 ]
+
+    fig, ax = plt.subplots()
+    ax.barh(labels, sizes)
+
+    for i, v in enumerate(sizes):
+        ax.text(v + 0.5, i, str(v), color='black', fontweight='bold')
+
+    ax.set_xlabel('Percentuais (%)')
+    ax.set_ylabel('Linguagens')
+    ax.set_title('Percentual de perguntas frequentes')
+    ax.set_xlim(right=max(sizes)+5)
+    plt.show()
+
+   
 
 if __name__ == '__main__':
-    #get_all_data()
-    #print("----------------------------------------------------------------------")
-    #calc_frequency()
-    #print("----------------------------------------------------------------------")
+    get_all_data()
+    print("----------------------------------------------------------------------")
+    calc_frequency()
+    print("----------------------------------------------------------------------")
     calc_answer()
-    #print("----------------------------------------------------------------------")
-    #calc_quant()
-    #generate_pie_chart()
+    print("----------------------------------------------------------------------")
+    calc_quant()
+    generate_pie_chart()
+    generate_sidebar()
  
  

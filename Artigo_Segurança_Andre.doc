@@ -1,0 +1,73 @@
+Aluno: André Luis da Silva 
+
+1)  Most businesses view security as a post-development
+process [8]. Security isn’t considered at some point in the
+pre-development phase [9]. There is no approval for the
+method to be used, we still have little understanding of
+the need for secure software development. There are also
+few facts about the effectiveness of existing approaches to
+dealing with real problems and a limited view of how they
+contribute to the assessment of safety concerns [10]. Threats
+put systems at greater risk for major losses that can be dif-
+ficult to recover [11]. The majority of software programs
+are designed and deployed without attention to protection
+desires [12], [13]. Hidden attacking risks within or outside
+the organization are emerging day-by-day, results in huge
+financial loss, as well as confidentiality and credibility losses
+by putting the availability and integrity of organizational
+data at risk [14], [15]. 
+
+2)  based on the above evidence, we can conclude that pro-
+tecting software programs in the development stages isn’t
+sufficient and there is a great need to locate higher approaches
+and ways to protect software programs. This paper provides
+a systematic study of maps (SMS) based on our pre-defined
+process and the proposed model [18], [19] to highlight
+the existing security measures for building secure software.
+It is reported that the findings, in our study reported in
+this paper, will have an impact on the body of information
+by providing a tax on the SSE-related research topic that
+may invite researchers to focus on further research in this
+field
+
+3) We investigate the outcome of this mapping study to
+provide a reference direction for interested and vigilant
+researchers to address and explore new research trends and
+gaps in the subject domain. The findings of the SMS may
+assist the practitioners by providing a deep insight into the
+subject domain about security approaches, security limita-
+tions, and unresolved specific and general issues.
+
+4) The main purpose of the SMS is to provide formal ways to
+integrate the information found in simple basic lessons with
+a set of map questions [65]. SMS is a literature study that
+focuses on selecting and combining all high-quality research,
+related to a specific topic and provides a complete summary
+of current texts applicable to specific map queries [66]. Com-
+pared to a systematic literature review (SLR), SMS were per-
+formed on a wide range of research questions to identify gaps
+in a particular research area. It also identifies gaps in existing
+subjects and determines trends in future studies [67]–[69].
+SMS, therefore, maintains a great imminent value in the field
+of software engineering by providing a general view of the
+literature in this particular domai
+
+5) Realizou pesquisa de diversas metodologias de segurança com base nos resultados onde encontrou a maior presença de tecnicas de segurança nas fases
+de testes e desing the produtos
+
+6) The findings of this research contribute to the SSD context
+from various perspectives. Initially, they provide a clearer
+understanding of the security practices and methods used
+in the SSD environment for the academic community and
+explain differences in areas where security approaches are
+ineffective or inadequate. This knowledge will open opportu-
+nities for SSD researchers to solve problems and design new
+security techniques that can minimize the impact of security
+risks and threats in the development of secure software. Sec-
+ondly, the development of applications participating in highly
+distributed projects would provide an overview of current
+approaches aimed at promoting their efforts and recognizing
+those most likely to meet their needs. 
+
+7)  Sua análise sobre o artigo.
+

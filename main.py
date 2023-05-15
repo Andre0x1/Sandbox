@@ -2,18 +2,31 @@ import requests
 import json
 import time
 
+import datetime
+
+
 url = 'https://api.stackexchange.com/2.3/questions'
 
-params = {
-    'key' :'LvNpGbm8Cag)*kR76U5Bzw((',
+
+
+
+def get_stackData(year):
+
+    
+    inicio = int(datetime.datetime(year, 1, 1).timestamp())
+    fim = int(datetime.datetime(year, 12, 31).timestamp())
+
+    params = {
+    'key' :'1HsxJIJmPA)Y4sxXoaP01A((',
     'page': 1,
     'pagesize': 100,
     'order': 'desc',
     'sort': 'creation',
-    'site': 'stackoverflow'
+    'site': 'stackoverflow',
+    'fromdate': inicio,
+    'todate': fim
 }
 
-def get_stackData():
     questions = []
     i=0
     
@@ -26,15 +39,16 @@ def get_stackData():
                 retry = False
                 questions += response.json()['items']
                 i+= 1
-                if(i%1000== 0):
+                print(i)
+                if(i%100== 0):
                     print(i/1000,"% das perguntas obtidas")
             else:
                 print("Timeout 10 min")
                 time.sleep(360)
        
-    filename = "100K_questions.json"
+    filename = str(year) + "_100K_questions.json" 
     with open(filename, "w") as f:
         json.dump(questions, f, indent=4)
 
 if __name__ == '__main__':
-    get_stackData()
+    get_stackData(2022)
