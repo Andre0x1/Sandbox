@@ -6,8 +6,11 @@ import statistics
 import matplotlib.pyplot as plt
 
 
-def calc_quant():
-    with open('100K_questions.json', 'r') as file:
+def calc_quant(year):
+
+    filename = str(year) + '_100K_questions.json'
+
+    with open(filename, 'r') as file:
         data = file.read()
     
     objects = json.loads(data)
@@ -117,8 +120,10 @@ def calc_visibility(name):
             print(name, "variancia" ,variance)
             print(name ,"percentual frequencia", f"{percentage:.2f}% foram criadas frequentemente")
 
-def calc_answer():
-    with open('100K_questions.json', 'r') as file:
+def calc_answer(year):
+    filename = str(year) + '_100K_questions.json'
+
+    with open(filename, 'r') as file:
         data = file.read()
     
         objects = json.loads(data)
@@ -221,9 +226,11 @@ def calc_frequency():
     calc_visibility("java")
 
 
-def get_data(type):
+def get_data(type,year):
 
-    with open('100K_questions.json', 'r') as file:
+    filename = str(year) + '_100K_questions.json'
+
+    with open(filename, 'r') as file:
         data = file.read()
     
         objects = json.loads(data)
@@ -233,17 +240,17 @@ def get_data(type):
         if type in questions['tags']:
             list.append(questions)
     
-    filename = type +"_questions.json"
+    filename = type + '_' + str(year) +"_questions.json"
     with open(filename, "w") as f:
         json.dump(list, f, indent=4)
 
         
-def get_all_data():       
-    get_data("rust")
-    get_data("javascript")
-    get_data("go")
-    get_data("python")
-    get_data("java")
+def get_all_data(year):       
+    get_data("rust",year)
+    get_data("javascript",year)
+    get_data("go",year)
+    get_data("python",year)
+    get_data("java",year)
 
 
 def generate_pie_chart():
@@ -277,14 +284,14 @@ def generate_sidebar():
    
 
 if __name__ == '__main__':
-    get_all_data()
-    print("----------------------------------------------------------------------")
-    calc_frequency()
-    print("----------------------------------------------------------------------")
-    calc_answer()
-    print("----------------------------------------------------------------------")
-    calc_quant()
-    generate_pie_chart()
-    generate_sidebar()
+    get_all_data(2022)
+    # print("----------------------------------------------------------------------")
+    # calc_frequency()
+    # print("----------------------------------------------------------------------")
+    # calc_answer()
+    # print("----------------------------------------------------------------------")
+    # calc_quant()
+    # generate_pie_chart()
+    # generate_sidebar()
  
  
